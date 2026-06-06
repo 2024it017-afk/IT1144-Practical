@@ -1,0 +1,16 @@
+body{
+	background-color:light-blue;
+}
+.content{
+	display:flex;
+	gap:10px;
+	padding:10px;
+	justify-content:space-around;
+}
+.text{
+	flex:1;
+	border:2px solid black;
+	padding:8px;
+	text-align:center;
+	border-radius:6px;
+}
